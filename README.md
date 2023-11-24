@@ -1,1 +1,1 @@
-<img src="./assets/img/image-daniel.jpg" width="auto">
+<img src="./assets/img/template.gif" width="auto">
